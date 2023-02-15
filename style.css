@@ -1,0 +1,15 @@
+.abc{
+    
+    position: absolute;
+top: 65px;
+    display: inline-block}
+.bbc{
+    position: relative;
+    left:  225px;
+    display: inline-block;
+}
+.Videos{
+    margin: 20px 20px 20px;
+    padding-left: 250px;
+    
+}
